@@ -53,3 +53,7 @@ a{
 .flag{
     opacity: 25%;
 }
+
+#footer{
+    font-size: medium;
+}
